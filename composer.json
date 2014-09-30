@@ -5,7 +5,7 @@
         "keywords"     : ["wordpress", "api", "wp-api"],
         "homepage"     : "http://wp-api.org",
         "require"      : {
-            "php": ">=5.3",
+            "php": ">=5.3"
         },
         "license"      : "GPL-2.0",
         "authors"      : [
