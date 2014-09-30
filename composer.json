@@ -1,0 +1,36 @@
+{
+        "name"         : "wp-api/client-js",
+        "description"  : "Pods Frontier — Advanced Templating, Form Builder, Layout Builder",
+        "type"         : "wordpress-plugin",
+        "keywords"     : ["wordpress", "api", "wp-api"],
+        "homepage"     : "http://wp-api.org",
+        "require"      : {
+            "php": ">=5.3",
+        },
+        "license"      : "GPL-2.0",
+        "authors"      : [
+            {
+                "name"    : "K.Adam White",
+                "homepage": "http://www.kadamwhite.com"
+            },
+            {
+                "name"    : "Eric Lewis",
+                "homepage": "http://www.ericandrewlewis.com"
+            },
+            {
+                "name"    : "Taylor Lovett",
+                "homepage": "http://www.taylorlovett.com"
+            },
+            {
+                "name"    : "Matthew Haines-Young",
+                "homepage": "http://matth.eu"
+            }
+        ],
+        "support"    : {
+            "issues": "https://github.com/WP-API/client-js/issues",
+            "source": "https://github.com/WP-API/client-js"
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        }
+}
